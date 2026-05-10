@@ -6,8 +6,9 @@
 ### 📊 Data Analyst/Science | 🤖 Artificial Intelligence | 🚀 Application Developer
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-07ea-4bdf-9f59-8fea0c982856.gif" width="200" alt="Bongo Cat" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot AI" width="100" />
 </p>
+</div>
 
 # 🚀 About Me
 
