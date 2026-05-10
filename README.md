@@ -58,10 +58,6 @@
 
 # 🌐 Connect With Me
 
-<div align="center">
-
-# 🌐 Connect With Me
-
 <div align="left">
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** phamvanchung2k7@gmail.com
