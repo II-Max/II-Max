@@ -5,8 +5,9 @@
 ### 🎓 Sinh viên ngành Khoa học Dữ liệu & Trí tuệ Nhân tạo  
 ### 📊 Data Analyst/Science | 🤖 Artificial Intelligence | 🚀 Application Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=>>>+DATA+SCIENCE+%26+AI;>>>+FLUTTER+DEVELOPER;>>>+MACHINE+LEARNING+ENTHUSIAST;>>>+NASA+SPACE+APPS+CHALLENGER" />
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Pixel Coder" />
+</p>
 ---
 
 # 🚀 About Me
