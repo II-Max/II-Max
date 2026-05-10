@@ -5,12 +5,7 @@
 ### 🎓 Sinh viên ngành Khoa học Dữ liệu & Trí tuệ Nhân tạo  
 ### 📊 Data Analyst/Science | 🤖 Artificial Intelligence | 🚀 Application Developer
 
-<p align="center">
-  <img src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif" width="250"/>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Welcome+to+my+GitHub+Profile;%F0%9F%92%BB+Flutter+%7C+AI+%7C+Data+Science;%F0%9F%9A%80+Learning+and+Building+Everyday" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=>>>+DATA+SCIENCE+%26+AI;>>>+FLUTTER+DEVELOPER;>>>+MACHINE+LEARNING+ENTHUSIAST;>>>+NASA+SPACE+APPS+CHALLENGER" />
 
 ---
 
