@@ -6,9 +6,8 @@
 ### 📊 Data Analyst/Science | 🤖 Artificial Intelligence | 🚀 Application Developer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Pixel Coder" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-56118042-07ea-4bdf-9f59-8fea0c982856.gif" width="200" alt="Bongo Cat" />
 </p>
----
 
 # 🚀 About Me
 
