@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=II-MAX&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=II-MAX&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
