@@ -4,20 +4,17 @@
 Tôi là một sinh viên năm nhất với niềm đam mê mãnh liệt trong việc khám phá dữ liệu, tự động hóa và xây dựng các hệ thống công nghệ cốt lõi. Tôi luôn duy trì sự nghiêm khắc với bản thân trong quá trình học tập và làm việc.
 
 ## 🚀 Về bản thân tôi (About Me)
-- 🎓 Đang theo học chuyên ngành **Khoa học Dữ liệu và Trí tuệ Nhân tạo** (Data Science and Artificial Intelligence) tại Trường Đại học Kinh tế - Kỹ thuật Công nghiệp (UNETI).
-- 💼 Đảm nhiệm vị trí **Trưởng Ban Chuyên môn/Kỹ thuật** tại CLB STEM UNETI.
-- 🌱 Đang theo đuổi và hoàn thiện chứng chỉ chuyên nghiệp **IBM Data Analyst** trên nền tảng Coursera.
-- 🤝 Từng tham gia với vai trò Cố vấn (Mentor) trong Chương trình STEM Mentorship.
-- 🏸 Ngoại khóa: Đam mê cầu lông và những chuyến đi trải nghiệm thực tế trên những cung đường Tây Bắc.
+- 🎓 Đang theo học chuyên ngành **Khoa học Dữ liệu và Trí tuệ Nhân tạo** (Data Science and Artificial Intelligence).
+- 💼 **Mentor** tại The Fulbright Program, **Data Analyst** tại Freelancer và **Challenger** tại Space Apps Challenge
+- 🌱 Chứng Chỉ - Chứng Nhận : **IBM Introduction to Data Analytics**.
 
 ## 🛠️ Công nghệ & Kỹ năng (Tech Stack)
-- **Ngôn ngữ Lập trình:** Python, R, SQL, Dart, C++
-- **Internet vạn vật (IoT) & Tự động hóa:** Node-RED, Firebase, Siemens S7-1200 PLCs
-- **Công cụ Khác:** Git, Excel & PowerPoint (Chứng chỉ MOS), Canva
+- **Ngôn ngữ Lập trình:** Python (Numpy, Pandas), R (Basic), SQL (Basic), Dart, C++, GeminiCLI
+- **Công cụ Khác:** PowerBI (Basic), Git (Basic), Office (MOS).
 
 ## 🏆 Dự án Tiêu biểu (Featured Projects)
-* **NEO-JUDGE:** Nền tảng chấm điểm lập trình tự động (Online Judge) ứng dụng điện toán đám mây lai (hybrid cloud), được xây dựng trên nền tảng kiến trúc Python, C++ và tích hợp Firebase.
-* **Future Smart Farm:** Giải pháp giám sát môi trường thông minh ứng dụng IoT, dự án đạt giải tại NASA Space Apps Challenge 2025 khu vực Ninh Bình.
+* **Data Mining:** Thu thập dữ liệu từ nhiều nguồn với nhiều mục đích khác nhau ( Nghiên cứu khoa học, khí hậu, thông tin khách hàng,... )
+* **FUTSFarm:** Giải pháp dự đoán biến động thời thiết, ứng phó biến đổi khí hậu. **Dự án đạt giải tại NASA Space Apps Challenge 2025**.
 
 ## 📈 Thống kê GitHub (GitHub Stats)
 <p align="center">
@@ -27,5 +24,6 @@ Tôi là một sinh viên năm nhất với niềm đam mê mãnh liệt trong v
 </p>
 
 ## 📫 Thông tin Liên hệ (Contact)
-- **Email:** [Điền email của cậu vào đây]
-- **LinkedIn:** [Điền link LinkedIn của cậu vào đây]
+- **Email:** phamvanchung2k7@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/phamvanchung1827
+-  **Facebook:** https://www.facebook.com/phamvanchung2127
