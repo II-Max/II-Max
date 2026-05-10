@@ -40,13 +40,19 @@
 ## 📊 Data Mining
 > Thu thập và xử lý dữ liệu phục vụ nghiên cứu khoa học, khí hậu và phân tích khách hàng.
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=II-MAX&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=II-MAX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=II-MAX&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=II-MAX&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=II-MAX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
