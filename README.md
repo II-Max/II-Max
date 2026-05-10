@@ -60,10 +60,16 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamvanchung2k7@gmail.com)
+# 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamvanchung1827)
+<div align="left">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phamvanchung2127)
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20"/> **Email:** phamvanchung2k7@gmail.com
+
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/> **LinkedIn:** https://www.linkedin.com/in/phamvanchung1827
+
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="20"/> **Facebook:** https://www.facebook.com/phamvanchung2127
+
+</div>
 
 </div>
