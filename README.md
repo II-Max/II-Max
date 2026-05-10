@@ -5,10 +5,6 @@
 ### 🎓 Sinh viên ngành Khoa học Dữ liệu & Trí tuệ Nhân tạo  
 ### 📊 Data Analyst/Science | 🤖 Artificial Intelligence | 🚀 Application Developer
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Coder" width="100" />
-</p>
-
 </div>
 
 # 🚀 About Me
