@@ -6,8 +6,9 @@
 ### 📊 Data Analyst/Science | 🤖 Artificial Intelligence | 🚀 Application Developer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot AI" width="100" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Pixel Coder" width="100" />
 </p>
+
 </div>
 
 # 🚀 About Me
