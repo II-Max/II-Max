@@ -5,13 +5,7 @@
 ### 🎓 Sinh viên ngành Khoa học Dữ liệu & Trí tuệ Nhân tạo  
 ### 📊 Data Analyst/Science | 🤖 Artificial Intelligence | 🚀 Application Developer
 
-<!-- Cute Sakura Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF61D2&center=true&vCenter=true&width=700&lines=%F0%9F%8C%B8+Data+Science+%26+AI+Explorer;%F0%9F%A4%96+Building+Intelligent+Systems;%F0%9F%93%8A+Data+Analytics+%7C+Flutter+Developer;%E2%9C%A8+Always+Learning+Something+New" />
-
-<!-- Cute Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Coding...;%F0%9F%A4%96+Training+AI+Models...;%F0%9F%93%8A+Analyzing+Data...;%F0%9F%9A%80+Building+Cool+Things..." />
 </div>
 
 ---
