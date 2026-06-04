@@ -29,10 +29,6 @@
 
 # 🏆 Featured Projects
 
-## 🌾 FUTSFarm
-> Giải pháp dự đoán biến động thời tiết và ứng phó biến đổi khí hậu.
-🏅 **NASA Space Apps Challenge 2025**
-
 ## 📊 Data Mining
 > Thu thập và xử lý dữ liệu phục vụ nghiên cứu khoa học, khí hậu và phân tích khách hàng.
 
