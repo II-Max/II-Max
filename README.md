@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=II-MAX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=II-MAX&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -52,38 +52,34 @@
 
 <div align="center">
   
-  ### 🤖 AI & Data Science
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-    <img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
-    <img src="https://img.shields.io/badge/Llama_3-0466C8?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3" />
-    <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API" />
+  <p><b>🤖 AI & Data Science</b><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+    <img src="https://img.shields.io/badge/Transformers-FFCA28?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+    <img src="https://img.shields.io/badge/Llama_3-0466C8?style=flat-square&logo=meta&logoColor=white" alt="Llama 3" />
+    <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq API" />
   </p>
 
-  ### 💻 Software & Web Development
-  <p>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <p><b>💻 Software & Web Development</b><br>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   </p>
 
-  ### ☁️ Backend & Cloud Architecture
-  <p>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <p><b>☁️ Backend & Cloud Architecture</b><br>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
   </p>
 
-  ### ⚙️ Industrial IoT & Automation
-  <p>
-    <img src="https://img.shields.io/badge/Siemens_PLC-009999?style=for-the-badge&logo=siemens&logoColor=white" alt="Siemens PLC" />
-    <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" alt="Node-RED" />
-    <img src="https://img.shields.io/badge/Modbus_TCP-000000?style=for-the-badge&logo=modbus&logoColor=white" alt="Modbus TCP" />
+  <p><b>⚙️ Industrial IoT & Automation</b><br>
+    <img src="https://img.shields.io/badge/Siemens_PLC-009999?style=flat-square&logo=siemens&logoColor=white" alt="Siemens PLC" />
+    <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white" alt="Node-RED" />
+    <img src="https://img.shields.io/badge/Modbus_TCP-000000?style=flat-square&logo=modbus&logoColor=white" alt="Modbus TCP" />
   </p>
 
 </div>
