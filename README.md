@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Pham+Van+Chung+👋;Data+Science+Student;AI%2FNLP+Researcher;Full-stack+%26+IoT+Developer" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there, I'm Pham Van Chung 👋</h1>
+<h3 align="center">Data Science Student | AI/NLP Researcher | Full-stack & IoT Developer</h3>
 
 <h3 align="center">
   <i>"Driven by a passion for technology, absolute perfection, and solving mysteries."</i>
@@ -18,9 +17,7 @@
   </a>
 </p>
 
-<p align="center">
-  <i><img src="https://komarev.com/ghpvc/?username=II-MAX&label=Profile%20views&color=0e75b6&style=flat" alt="II-MAX Profile Views" /></i>
-</p>
+
 
 ---
 
@@ -31,13 +28,14 @@
       <ul>
         <li>🎓 <b>Education:</b> First-year Data Science & Artificial Intelligence student at <b>UNETI</b>.</li>
         <li>🎯 <b>Current Focus:</b> Researching foundational Machine Learning and Natural Language Processing (NLP) methodologies, aiming for a Q3-indexed international scientific publication.</li>
-        <li>👨‍🏫 <b>Leadership & Mentorship:</b>
+        <li>👨‍🏫 <b>Leadership & Professional Engagements:</b>
           <ul>
             <li><b>Head of Expertise Department</b> at UNETI STEM Club.</li>
             <li><b>Academic Mentor</b> for the Fulbright STEM Mentorship Program 2026.</li>
+            <li><b>Expertise Board Member</b> at the UET Aerospace Club.</li>
           </ul>
         </li>
-        <li>🌱 <b>Core Philosophy:</b> Building accessible, high-performance technological solutions to bridge the educational and technical gaps in underprivileged rural areas.</li>
+        <li>🌱 <b>Core Philosophy:</b> Dedicated to building practical, high-performance technological solutions to expand access to education and technical knowledge in underserved communities.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -69,6 +67,14 @@
     <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  </p>
+
+  <p><b>⚙️ Backend, Cloud & Industrial IoT</b><br>
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Siemens_PLC-009999?style=flat-square&logo=siemens&logoColor=white" alt="Siemens PLC" />
+    <img src="https://img.shields.io/badge/Modbus_TCP-00539C?style=flat-square&logo=modbus&logoColor=white" alt="Modbus TCP" />
+    <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white" alt="Node-RED" />
   </p>
 
 </div>
@@ -104,11 +110,11 @@
 
 <div align="center">
 
-| Award | Event / Organization | Year |
+| Award / Certification | Event / Organization | Year |
 | :--- | :--- | :---: |
 | 🥇 **Environmental Technology Award** | NASA Space Apps Challenge (Ninh Binh) | 2025 |
 | 🥈 **Second Place** | Provincial Robotics and Innovation Challenge (KCBOT Tỉnh) | 2024 |
-| 📜 **Certifications** | IBM Introduction to Data Analytics | - |
+| 📜 **Certifications** | IBM Introduction to Data Analytics <br> Microsoft Office Specialist (MOS) Excel & PowerPoint | - |
 
 </div>
 
@@ -116,10 +122,7 @@
 
 <h2 align="center">⚡ GitHub Analytics</h2>
 
-<div align="center">
-  <img src="https://github.profile-trophy.vercel.app/?username=II-MAX&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Trophy" />
-</div>
-<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=II-MAX&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=II-MAX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
