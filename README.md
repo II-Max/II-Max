@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Student | AI/NLP Researcher | Full-stack & IoT Developer</h3>
 
 <h3 align="center">
-  <i>"Driven by a passion for technology, absolute perfection, and solving mysteries."</i>
+  <i>"If I have seen further, it is by standing on the shoulders of giants."</i>
 </h3>
 
 <p align="center">
@@ -112,9 +112,9 @@
 
 | Award / Certification | Event / Organization | Year |
 | :--- | :--- | :---: |
-| 🥇 **Environmental Technology Award** | NASA Space Apps Challenge (Ninh Binh) | 2025 |
-| 🥈 **Second Place** | Provincial Robotics and Innovation Challenge (KCBOT Tỉnh) | 2024 |
-| 📜 **Certifications** | IBM Introduction to Data Analytics <br> Microsoft Office Specialist (MOS) Excel & PowerPoint | - |
+| 🥇 **Environmental Technology Award** | NASA Space Apps Challenge (VIET NAM) | 2025 |
+| 🥈 **Second Place** | Provincial Robotics and Innovation Challenge (KCBOT YEN BAI Province) | 2024 |
+| 📜 **Certifications** | IBM Introduction to Data Analytics <br> Microsoft Office Specialist (MOS) | 2025 - 2026 |
 
 </div>
 
