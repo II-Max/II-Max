@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/flutter/ephemeral": true,
+        "**/Flutter/ephemeral": true,
+        "**/.symlinks": true,
+        "**/.plugin_symlinks": true,
+        "**/c:\\Users\\Phamv\\OneDrive\\Desktop\\II-Max\\CV.aux": true,
+        "**/c:\\Users\\Phamv\\OneDrive\\Desktop\\II-Max\\CV.log": true,
+        "**/c:\\Users\\Phamv\\OneDrive\\Desktop\\II-Max\\CV.gz": true,
+        "**/c:\\Users\\Phamv\\OneDrive\\Desktop\\II-Max\\CV.out": true
+    }
+}
