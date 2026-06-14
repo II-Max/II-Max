@@ -71,17 +71,6 @@
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
   </p>
 
-  <p><b>☁️ Backend & Cloud Architecture</b><br>
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-  </p>
-
-  <p><b>⚙️ Industrial IoT & Automation</b><br>
-    <img src="https://img.shields.io/badge/Siemens_PLC-009999?style=flat-square&logo=siemens&logoColor=white" alt="Siemens PLC" />
-    <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white" alt="Node-RED" />
-    <img src="https://img.shields.io/badge/Modbus_TCP-000000?style=flat-square&logo=modbus&logoColor=white" alt="Modbus TCP" />
-  </p>
-
 </div>
 
 ---
@@ -119,7 +108,7 @@
 | :--- | :--- | :---: |
 | 🥇 **Environmental Technology Award** | NASA Space Apps Challenge (Ninh Binh) | 2025 |
 | 🥈 **Second Place** | Provincial Robotics and Innovation Challenge (KCBOT Tỉnh) | 2024 |
-| 📜 **Certifications** | Microsoft Office Specialist (MOS) Excel & PowerPoint, IBM Introduction to Data Analytics | - |
+| 📜 **Certifications** | IBM Introduction to Data Analytics | - |
 
 </div>
 
