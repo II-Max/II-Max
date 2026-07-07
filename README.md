@@ -63,12 +63,6 @@ goal        : Q3-indexed international publication in ML/NLP
 
 `🥇 NASA Space Apps — Environmental Tech Award · 2025`
 &nbsp;&nbsp;·&nbsp;&nbsp;
-`🥈 KCBOT Yen Bai — Provincial Robotics · 2024`
-&nbsp;&nbsp;·&nbsp;&nbsp;
-`📜 IBM Data Analytics · 2025`
-&nbsp;&nbsp;·&nbsp;&nbsp;
-`📜 Microsoft MOS · 2026`
-&nbsp;&nbsp;·&nbsp;&nbsp;
 `🎓 Fulbright STEM Mentor · 2026`
 
 </div>
