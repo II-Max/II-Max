@@ -58,7 +58,28 @@ philosophy: "Build tech that breaks barriers,
   </td>
   <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=II-MAX&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" width="100%" alt="GitHub Stats"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FII-Max&query=%24.public_repos&label=%F0%9F%93%A6%20Public%20Repos&color=58a6ff&style=flat-square&labelColor=0D1117" alt="Repos" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FII-Max&query=%24.followers&label=%F0%9F%91%A5%20Followers&color=58a6ff&style=flat-square&labelColor=0D1117" alt="Followers" />
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/⭐_Stars_Earned-brightgreen?style=flat-square&labelColor=0D1117&color=3fb950" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/🚀_Projects_Shipped-2-58a6ff?style=flat-square&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/🏆_Awards_Won-3-f0883e?style=flat-square&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/🎓_Scholarship-2026-8957e5?style=flat-square&labelColor=0D1117" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/📍_Open_to-Research%20%7C%20Collab-58a6ff?style=flat-square&labelColor=0D1117" /></td>
+  </tr>
+</table>
 
   </td>
   </tr>
@@ -66,11 +87,21 @@ philosophy: "Build tech that breaks barriers,
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Achievements & Milestones
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=II-MAX&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="100%"/>
-</p>
+<div align="center">
+
+| 🎖️ Achievement | 📊 Status |
+|:---|:---:|
+| 🥇 NASA Space Apps — Environmental Tech Award | ![](https://img.shields.io/badge/2025-GOLD-FFD700?style=flat-square&labelColor=0D1117) |
+| 🥈 Provincial Robotics KCBOT — 2nd Place | ![](https://img.shields.io/badge/2024-SILVER-C0C0C0?style=flat-square&labelColor=0D1117) |
+| 🏅 Vietnam Digital Era Talent Scholarship | ![](https://img.shields.io/badge/2026-AWARDED-8957e5?style=flat-square&labelColor=0D1117) |
+| 🏆 University Entrepreneurship — Top 24 | ![](https://img.shields.io/badge/TOP_24-FINALIST-f0883e?style=flat-square&labelColor=0D1117) |
+| 📜 IBM Data Analytics Certificate | ![](https://img.shields.io/badge/IBM-CERTIFIED-054ADA?style=flat-square&labelColor=0D1117&logo=ibm&logoColor=white) |
+| 📜 Microsoft Office Specialist (MOS) | ![](https://img.shields.io/badge/MOS-CERTIFIED-00A4EF?style=flat-square&labelColor=0D1117&logo=microsoft&logoColor=white) |
+| 🎓 Fulbright STEM Academic Mentor | ![](https://img.shields.io/badge/2026-ACTIVE-3fb950?style=flat-square&labelColor=0D1117) |
+
+</div>
 
 ---
 
