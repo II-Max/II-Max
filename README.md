@@ -1,13 +1,6 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0d2137,100:0D1117&height=180&section=header&text=Pham%20Van%20Chung&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%2F%20NLP%20%E2%80%94%20FPT%20University&descAlignY=62&descSize=16&descColor=8b949e" width="100%"/>
 
-```
-██████╗ ██╗  ██╗ █████╗ ███╗   ███╗    ██╗   ██╗ █████╗ ███╗   ██╗     ██████╗██╗  ██╗██╗   ██╗███╗   ██╗ ██████╗ 
-██╔══██╗██║  ██║██╔══██╗████╗ ████║    ██║   ██║██╔══██╗████╗  ██║    ██╔════╝██║  ██║██║   ██║████╗  ██║██╔════╝ 
-██████╔╝███████║███████║██╔████╔██║    ██║   ██║███████║██╔██╗ ██║    ██║     ███████║██║   ██║██╔██╗ ██║██║  ███╗
-██╔═══╝ ██╔══██║██╔══██║██║╚██╔╝██║    ╚██╗ ██╔╝██╔══██║██║╚██╗██║    ██║     ██╔══██║██║   ██║██║╚██╗██║██║   ██║
-██║     ██║  ██║██║  ██║██║ ╚═╝ ██║     ╚████╔╝ ██║  ██║██║ ╚████║    ╚██████╗██║  ██║╚██████╔╝██║ ╚████║╚██████╔╝
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝      ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝     ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ 
-```
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=58A6FF&center=true&vCenter=true&width=480&lines=AI+%2F+ML+%2F+NLP+%E2%80%94+FPT+University+Hanoi;Vietnam+Digital+Era+Talent+Scholar+2026;Building+tech+that+breaks+barriers." alt="typing" />
 
