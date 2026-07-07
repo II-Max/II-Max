@@ -80,8 +80,15 @@ goal        : Q3-indexed international publication in ML/NLP
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=II-Max&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" height="165" alt="streak"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=II-Max&layout=compact&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=8b949e&langs_count=6" height="165" alt="langs"/>
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=58a6ff)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=58a6ff)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=58a6ff)
+![R](https://img.shields.io/badge/R-0D1117?style=flat-square&logo=r&logoColor=58a6ff)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=58a6ff)
 
 <br/><br/>
 
