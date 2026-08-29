@@ -1,25 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0d2137,100:0D1117&height=170&section=header&text=Pham%20Van%20Chung&fontSize=46&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%2F%20NLP%20Researcher&descAlignY=62&descSize=15&descColor=8b949e" width="100%"/>
 
-<div align="center">
-
-### Artificial Intelligence · Machine Learning · NLP
-
-Building intelligent systems with a focus on **research, education, and real-world impact.**
-
-<br/>
-
-<a href="mailto:phamvanchung2k7@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF"/>
-</a>
-<a href="https://www.linkedin.com/in/phamvanchung1827">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
-</a>
-<a href="https://github.com/II-Max">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=58A6FF"/>
-</a>
-
-</div>
-
 ---
 
 ## About
