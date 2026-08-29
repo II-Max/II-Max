@@ -9,14 +9,6 @@ I'm **Pham Van Chung**, an Artificial Intelligence student at **FPT University H
 My interests lie at the intersection of **Machine Learning, NLP, and LLMs**.
 I enjoy turning research ideas into practical systems, particularly in **education and intelligent automation**.
 
-Currently focused on building strong foundations in ML/NLP and working toward an **international Q3-indexed publication**.
-
-```text
-AI / ML / NLP
-       ↓
-Research → Engineering → Real-world Impact
-```
-
 ---
 
 ## Research
