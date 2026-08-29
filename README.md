@@ -54,40 +54,6 @@ Research → Engineering → Real-world Impact
 
 ---
 
-## Tech
-
-<div align="center">
-
-**AI / Data**
-
-`Python` · `PyTorch` · `Transformers` · `scikit-learn` · `Pandas` · `NumPy` · `R`
-
-**Development**
-
-`C++` · `JavaScript` · `Flutter` · `Dart` · `FastAPI` · `Firebase`
-
-**Systems**
-
-`Siemens PLC` · `Modbus TCP` · `Node-RED`
-
-</div>
-
----
-
-## GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=II-Max&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1a1a2e&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" height="160" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=II-Max&bg_color=0D1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=0d2137&hide_border=true&radius=6" width="100%" alt="GitHub activity"/>
-
-</div>
-
----
-
 <div align="center">
 
 <sub>Research with purpose. Build with impact.</sub>
