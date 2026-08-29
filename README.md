@@ -24,17 +24,7 @@ I enjoy turning research ideas into practical systems, particularly in **educati
 * Intelligent educational systems
 * Applied AI research
 
----
-
-## Selected Projects
-
-| Project               | Focus                                                                 |
-| :-------------------- | :-------------------------------------------------------------------- |
-| **NEO-ONLINE-JUDGE**  | AI-assisted programming education and automated code evaluation       |
-| **Future Smart Farm** | Precision agriculture with Siemens PLC, Python and environmental data |
-| **SilentBridge**      | Technology supporting communication accessibility                     |
-
-> I prefer building systems that solve a real problem rather than projects that simply demonstrate a technology.
+refer building systems that solve a real problem rather than projects that simply demonstrate a technology.
 
 ---
 
