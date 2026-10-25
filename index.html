@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pham Van Chung — AI / ML / NLP Engineer</title>
+    <meta name="description" content="Portfolio of Pham Van Chung (II-MAX) — AI, Machine Learning & NLP researcher at FPT University. Vietnam Digital Era Talent Scholar 2026.">
+    <meta name="keywords" content="AI, Machine Learning, NLP, Pham Van Chung, II-MAX, FPT University, portfolio">
+    <meta name="author" content="Pham Van Chung">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Pham Van Chung — AI / ML / NLP Engineer">
+    <meta property="og:description" content="AI, Machine Learning & NLP researcher at FPT University Hanoi. Vietnam Digital Era Talent Scholar 2026.">
+    <meta property="og:type" content="website">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700;800;900&family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Particle Canvas Background -->
+    <canvas id="particleCanvas"></canvas>
+
+    <!-- Scan Line Overlay -->
+    <div class="scanline-overlay"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="#hero" class="nav-logo">
+                <span class="logo-bracket">[</span>
+                <span class="logo-text">II-MAX</span>
+                <span class="logo-bracket">]</span>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#about" class="nav-link" data-text="about">about</a></li>
+                <li><a href="#stack" class="nav-link" data-text="stack">stack</a></li>
+                <li><a href="#projects" class="nav-link" data-text="projects">projects</a></li>
+                <li><a href="#recognition" class="nav-link" data-text="recognition">recognition</a></li>
+                <li><a href="#contact" class="nav-link" data-text="contact">contact</a></li>
+            </ul>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+        <div class="hero-content">
+            <div class="hero-glitch-wrapper">
+                <p class="hero-prefix">
+                    <span class="terminal-prompt">&gt;</span> initializing<span class="blink-cursor">_</span>
+                </p>
+                <h1 class="hero-name glitch" data-text="Pham Van Chung">Pham Van Chung</h1>
+                <p class="hero-alias">&lt; II-MAX /&gt;</p>
+            </div>
+            <div class="hero-tagline">
+                <span class="tag">AI</span>
+                <span class="tag-separator">/</span>
+                <span class="tag">ML</span>
+                <span class="tag-separator">/</span>
+                <span class="tag">NLP</span>
+            </div>
+            <p class="hero-description">
+                Building intelligent systems that break barriers.
+                <br>
+                <span class="highlight">FPT University Hanoi</span> · <span class="highlight">Vietnam Digital Era Talent 2026</span>
+            </p>
+            <div class="hero-cta">
+                <a href="#projects" class="btn btn-primary">
+                    <span class="btn-text">View Projects</span>
+                    <span class="btn-icon">→</span>
+                </a>
+                <a href="#contact" class="btn btn-outline">
+                    <span class="btn-text">Get In Touch</span>
+                </a>
+            </div>
+        </div>
+        <div class="hero-scroll-indicator">
+            <div class="scroll-line"></div>
+            <span>scroll</span>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section" id="about">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-number">01</span>
+                <h2 class="section-title">about<span class="accent-dot">.</span></h2>
+                <div class="section-line"></div>
+            </div>
+            <div class="about-grid">
+                <div class="about-terminal">
+                    <div class="terminal-header">
+                        <div class="terminal-dots">
+                            <span class="dot dot-red"></span>
+                            <span class="dot dot-yellow"></span>
+                            <span class="dot dot-green"></span>
+                        </div>
+                        <span class="terminal-title">whoami.yaml</span>
+                    </div>
+                    <div class="terminal-body">
+                        <pre><code><span class="yaml-comment"># whoami</span>
+<span class="yaml-key">name</span>        : <span class="yaml-value">Pham Van Chung</span>
+<span class="yaml-key">alias</span>       : <span class="yaml-value">II-MAX</span>
+<span class="yaml-key">university</span>  : <span class="yaml-value">FPT University Hanoi</span>
+<span class="yaml-key">major</span>       : <span class="yaml-value">Artificial Intelligence</span>
+<span class="yaml-key">scholarship</span> : <span class="yaml-value">Vietnam Digital Era Talent 2026 🏅</span>
+<span class="yaml-key">location</span>    : <span class="yaml-value">Ha Noi, Vietnam</span>
+
+<span class="yaml-key">research</span>    : <span class="yaml-value">[ Machine Learning, NLP, LLMs ]</span>
+<span class="yaml-key">building</span>    : <span class="yaml-value">[ NEO-ONLINE-JUDGE, Future Smart Farm ]</span>
+<span class="yaml-key">goal</span>        : <span class="yaml-value">Q3-indexed international publication</span></code></pre>
+                    </div>
+                </div>
+                <div class="about-text">
+                    <p class="about-intro">
+                        I'm a student-researcher passionate about <span class="text-glow">Artificial Intelligence</span>, 
+                        <span class="text-glow">Machine Learning</span>, and <span class="text-glow">Natural Language Processing</span>.
+                    </p>
+                    <p>
+                        Currently pursuing my AI degree at FPT University Hanoi with the Vietnam Digital Era Talent Scholarship, 
+                        I focus on building systems that make technology accessible — from automated code-grading platforms 
+                        for underserved rural communities to precision-agriculture systems using PLC hardware and weather APIs.
+                    </p>
+                    <p>
+                        My goal is to produce impactful, Q3-indexed research in ML/NLP while developing real-world 
+                        applications that push boundaries and serve communities.
+                    </p>
+                    <div class="about-stats">
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="2">0</span>
+                            <span class="stat-label">Major Projects</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="6">0</span>
+                            <span class="stat-label">Languages</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="2026">0</span>
+                            <span class="stat-label">Scholar Year</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Tech Stack Section -->
+    <section class="section section-alt" id="stack">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-number">02</span>
+                <h2 class="section-title">tech_stack<span class="accent-dot">.</span></h2>
+                <div class="section-line"></div>
+            </div>
+            <div class="stack-grid">
+                <!-- AI / ML -->
+                <div class="stack-category" data-category="ai">
+                    <div class="stack-category-header">
+                        <div class="stack-icon">🧠</div>
+                        <h3>AI / ML / NLP</h3>
+                    </div>
+                    <div class="stack-items">
+                        <div class="stack-item" data-skill="Python">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+                            </div>
+                            <span>Python</span>
+                        </div>
+                        <div class="stack-item" data-skill="PyTorch">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch">
+                            </div>
+                            <span>PyTorch</span>
+                        </div>
+                        <div class="stack-item" data-skill="Transformers">
+                            <div class="stack-item-icon">
+                                <svg viewBox="0 0 24 24" fill="currentColor" width="28" height="28"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+                            </div>
+                            <span>Transformers</span>
+                        </div>
+                        <div class="stack-item" data-skill="Llama 3">
+                            <div class="stack-item-icon">🦙</div>
+                            <span>Llama 3</span>
+                        </div>
+                        <div class="stack-item" data-skill="scikit-learn">
+                            <div class="stack-item-icon">
+                                <svg viewBox="0 0 24 24" fill="currentColor" width="28" height="28"><circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="4"/></svg>
+                            </div>
+                            <span>scikit-learn</span>
+                        </div>
+                        <div class="stack-item" data-skill="NumPy">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+                            </div>
+                            <span>NumPy</span>
+                        </div>
+                        <div class="stack-item" data-skill="Pandas">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+                            </div>
+                            <span>Pandas</span>
+                        </div>
+                        <div class="stack-item" data-skill="R">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R">
+                            </div>
+                            <span>R</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- Development -->
+                <div class="stack-category" data-category="dev">
+                    <div class="stack-category-header">
+                        <div class="stack-icon">⚡</div>
+                        <h3>Development</h3>
+                    </div>
+                    <div class="stack-items">
+                        <div class="stack-item" data-skill="C++">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++">
+                            </div>
+                            <span>C++</span>
+                        </div>
+                        <div class="stack-item" data-skill="JavaScript">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+                            </div>
+                            <span>JavaScript</span>
+                        </div>
+                        <div class="stack-item" data-skill="Flutter">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter">
+                            </div>
+                            <span>Flutter</span>
+                        </div>
+                        <div class="stack-item" data-skill="Dart">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart">
+                            </div>
+                            <span>Dart</span>
+                        </div>
+                        <div class="stack-item" data-skill="FastAPI">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI">
+                            </div>
+                            <span>FastAPI</span>
+                        </div>
+                        <div class="stack-item" data-skill="Firebase">
+                            <div class="stack-item-icon">
+                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase">
+                            </div>
+                            <span>Firebase</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- IoT / Industrial -->
+                <div class="stack-category" data-category="iot">
+                    <div class="stack-category-header">
+                        <div class="stack-icon">🔧</div>
+                        <h3>IoT / Industrial</h3>
+                    </div>
+                    <div class="stack-items">
+                        <div class="stack-item" data-skill="Siemens PLC">
+                            <div class="stack-item-icon">🏭</div>
+                            <span>Siemens PLC</span>
+                        </div>
+                        <div class="stack-item" data-skill="Modbus TCP">
+                            <div class="stack-item-icon">🔌</div>
+                            <span>Modbus TCP</span>
+                        </div>
+                        <div class="stack-item" data-skill="Node-RED">
+                            <div class="stack-item-icon">
+                                <svg viewBox="0 0 24 24" fill="currentColor" width="28" height="28"><rect x="3" y="8" width="6" height="8" rx="1"/><rect x="15" y="8" width="6" height="8" rx="1"/><line x1="9" y1="12" x2="15" y2="12" stroke="currentColor" stroke-width="2"/></svg>
+                            </div>
+                            <span>Node-RED</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="section" id="projects">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-number">03</span>
+                <h2 class="section-title">projects<span class="accent-dot">.</span></h2>
+                <div class="section-line"></div>
+            </div>
+            <div class="projects-grid">
+                <!-- NEO-ONLINE-JUDGE -->
+                <div class="project-card" data-project="neo">
+                    <div class="project-card-glow"></div>
+                    <div class="project-header">
+                        <div class="project-icon">🌐</div>
+                        <div class="project-links">
+                            <a href="https://github.com/II-Max" target="_blank" rel="noopener" class="project-link-icon" aria-label="GitHub">
+                                <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                            </a>
+                        </div>
+                    </div>
+                    <h3 class="project-title">NEO-ONLINE-JUDGE</h3>
+                    <span class="project-role">Founder</span>
+                    <p class="project-description">
+                        Automated code grading platform with a 24/7 AI programming mentor — built to serve 
+                        students in underserved rural communities. Integrating LLM-powered feedback to help 
+                        learners overcome programming challenges at any hour.
+                    </p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">FastAPI</span>
+                        <span class="tech-tag">LLMs</span>
+                        <span class="tech-tag">Groq API</span>
+                        <span class="tech-tag">Firebase</span>
+                    </div>
+                    <div class="project-status">
+                        <span class="status-dot active"></span>
+                        <span>In Development</span>
+                    </div>
+                </div>
+
+                <!-- Future Smart Farm -->
+                <div class="project-card" data-project="farm">
+                    <div class="project-card-glow"></div>
+                    <div class="project-header">
+                        <div class="project-icon">🌾</div>
+                        <div class="project-links">
+                            <a href="https://github.com/II-Max" target="_blank" rel="noopener" class="project-link-icon" aria-label="GitHub">
+                                <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                            </a>
+                        </div>
+                    </div>
+                    <h3 class="project-title">Future Smart Farm</h3>
+                    <span class="project-role">Founder</span>
+                    <p class="project-description">
+                        PLC-based precision agriculture system using Siemens hardware, Python & Open-Meteo API. 
+                        Top 24 University Entrepreneurship finalist. Automating crop management through real-time 
+                        weather data and industrial IoT protocols.
+                    </p>
+                    <div class="project-tech">
+                        <span class="tech-tag">Siemens PLC</span>
+                        <span class="tech-tag">Python</span>
+                        <span class="tech-tag">Modbus TCP</span>
+                        <span class="tech-tag">Node-RED</span>
+                        <span class="tech-tag">Open-Meteo</span>
+                    </div>
+                    <div class="project-status">
+                        <span class="status-dot active"></span>
+                        <span>Top 24 Entrepreneurship</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Recognition Section -->
+    <section class="section section-alt" id="recognition">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-number">04</span>
+                <h2 class="section-title">recognition<span class="accent-dot">.</span></h2>
+                <div class="section-line"></div>
+            </div>
+            <div class="recognition-grid">
+                <div class="recognition-card">
+                    <div class="recognition-year">2026</div>
+                    <div class="recognition-content">
+                        <div class="recognition-badge">🎓</div>
+                        <h3>Vietnam Digital Era Talent Scholar</h3>
+                        <p>Full scholarship recognizing exceptional talent in Vietnam's digital transformation initiative.</p>
+                    </div>
+                    <div class="recognition-glow"></div>
+                </div>
+                <div class="recognition-card">
+                    <div class="recognition-year">2026</div>
+                    <div class="recognition-content">
+                        <div class="recognition-badge">🎓</div>
+                        <h3>Fulbright STEM Mentor</h3>
+                        <p>Selected as a STEM mentor through the Fulbright program, guiding students in science and technology.</p>
+                    </div>
+                    <div class="recognition-glow"></div>
+                </div>
+                <div class="recognition-card">
+                    <div class="recognition-year">2025</div>
+                    <div class="recognition-content">
+                        <div class="recognition-badge">🥇</div>
+                        <h3>NASA Space Apps — Environmental Tech Award</h3>
+                        <p>Won the Environmental Technology Award at the NASA International Space Apps Challenge for innovative solutions.</p>
+                    </div>
+                    <div class="recognition-glow"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section" id="contact">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-number">05</span>
+                <h2 class="section-title">contact<span class="accent-dot">.</span></h2>
+                <div class="section-line"></div>
+            </div>
+            <div class="contact-content">
+                <div class="contact-text">
+                    <h3 class="contact-heading">Let's build something <span class="text-glow">extraordinary</span>.</h3>
+                    <p>Whether you're interested in AI research collaboration, project partnerships, or just want to connect — I'd love to hear from you.</p>
+                </div>
+                <div class="contact-links">
+                    <a href="mailto:phamvanchung2k7@gmail.com" class="contact-card" id="contact-email">
+                        <div class="contact-card-icon">
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 4L12 13 2 4"/></svg>
+                        </div>
+                        <div class="contact-card-info">
+                            <span class="contact-label">Email</span>
+                            <span class="contact-value">phamvanchung2k7@gmail.com</span>
+                        </div>
+                        <span class="contact-arrow">→</span>
+                    </a>
+                    <a href="https://www.linkedin.com/in/phamvanchung1827" target="_blank" rel="noopener" class="contact-card" id="contact-linkedin">
+                        <div class="contact-card-icon">
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+                        </div>
+                        <div class="contact-card-info">
+                            <span class="contact-label">LinkedIn</span>
+                            <span class="contact-value">phamvanchung1827</span>
+                        </div>
+                        <span class="contact-arrow">→</span>
+                    </a>
+                    <a href="https://www.facebook.com/phamvanchung2127" target="_blank" rel="noopener" class="contact-card" id="contact-facebook">
+                        <div class="contact-card-icon">
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+                        </div>
+                        <div class="contact-card-info">
+                            <span class="contact-label">Facebook</span>
+                            <span class="contact-value">phamvanchung2127</span>
+                        </div>
+                        <span class="contact-arrow">→</span>
+                    </a>
+                    <a href="https://github.com/II-Max" target="_blank" rel="noopener" class="contact-card" id="contact-github">
+                        <div class="contact-card-icon">
+                            <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                        </div>
+                        <div class="contact-card-info">
+                            <span class="contact-label">GitHub</span>
+                            <span class="contact-value">II-Max</span>
+                        </div>
+                        <span class="contact-arrow">→</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p class="footer-quote">
+                    <code>// "If I have seen further, it is by standing on the shoulders of giants." — Newton</code>
+                </p>
+                <p class="footer-copy">
+                    &copy; 2026 Pham Van Chung. Crafted with purpose.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
