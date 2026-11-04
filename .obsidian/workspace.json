@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "6e239f0b1a25453c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2313a89fc02da74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5494199c71ad1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df46eb2e99229f5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2979c22b0ebdd65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3cf7758d1b6f2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Trình duyệt tệp"
+            }
+          },
+          {
+            "id": "f85fa36a6954c7b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Tìm kiếm"
+            }
+          },
+          {
+            "id": "7df94360c3ecda8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Đánh dấu"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e06dcf4af8489700",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbca13e3f8017420",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c6c8895d6759e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Liên kết đến"
+            }
+          },
+          {
+            "id": "69e98dd9ffa10b32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liên kết đi ra"
+            }
+          },
+          {
+            "id": "f2d3745a69853245",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Thẻ"
+            }
+          },
+          {
+            "id": "20c1968b91961e9b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tất cả thuộc tính"
+            }
+          },
+          {
+            "id": "2bb9dd4627d5ae2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Đề cương"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false,
+      "bases:Tạo cơ sở mới": false
+    }
+  },
+  "active": "ed5494199c71ad1e",
+  "lastOpenFiles": []
+}
