@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Lộ trình đào tạo Tin học Cơ sở & Python AI/Data Science theo chuẩn FPT University. 20 bài giảng chuyên sâu Computer Science và 7 môn chuyên ngành AI.">
+  <title>KH-THCS — Lộ Trình Tin Học Cơ Sở & AI/Data Science</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
+</head>
+<body>
+
+<!-- Background Ambient -->
+<div class="bg-ambient"></div>
+
+<!-- Progress Bar -->
+<div class="progress-bar" id="progressBar"></div>
+
+<!-- ═══════════ NAVIGATION ═══════════ -->
+<nav class="navbar" id="navbar">
+  <div class="container">
+    <a href="#" class="nav-brand">
+      <div class="nav-brand-icon">II</div>
+      <div class="nav-brand-text"><span>KH-THCS</span> Curriculum</div>
+    </a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#overview" class="active">Tổng quan</a></li>
+      <li><a href="#part1">Tin học Cơ sở</a></li>
+      <li><a href="#part2">Python & AI</a></li>
+      <li><a href="#roadmap">Lộ trình FPTU</a></li>
+    </ul>
+    <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<!-- ═══════════ HERO SECTION ═══════════ -->
+<section class="hero" id="hero">
+  <div class="hero-grid-bg"></div>
+  <div class="container">
+    <div class="hero-content">
+      <div class="hero-badge">
+        <span class="dot"></span>
+        Chương trình đào tạo 2024–2025
+      </div>
+      <h1 class="hero-title">
+        Xây dựng nền tảng<br>
+        <span class="gradient-text">Computer Science</span><br>
+        & AI Engineering
+      </h1>
+      <p class="hero-subtitle">
+        Lộ trình toàn diện từ Tin học Cơ sở (C/C++) đến Python cho Trí tuệ Nhân tạo & Khoa học Dữ liệu, bám sát khung đào tạo chuẩn FPT University.
+      </p>
+      <div class="hero-cta-group">
+        <a href="#part1" class="btn btn-primary">
+          ⚡ Bắt đầu Phần 1
+        </a>
+        <a href="#part2" class="btn btn-secondary">
+          🐍 Khám phá Python & AI
+        </a>
+      </div>
+    </div>
+
+    <div class="hero-visual">
+      <div class="hero-code-block">
+        <div class="hero-code-header">
+          <div class="hero-code-dot red"></div>
+          <div class="hero-code-dot yellow"></div>
+          <div class="hero-code-dot green"></div>
+          <span class="hero-code-title">curriculum.py</span>
+        </div>
+        <div class="hero-code-body">
+          <div><span class="line-num">1</span><span class="keyword">class</span> <span class="type">Curriculum</span><span class="operator">:</span></div>
+          <div><span class="line-num">2</span>    <span class="comment"># Lộ trình đào tạo toàn diện</span></div>
+          <div><span class="line-num">3</span>    <span class="keyword">def</span> <span class="function">__init__</span>(<span class="keyword">self</span>)<span class="operator">:</span></div>
+          <div><span class="line-num">4</span>        <span class="keyword">self</span>.cs_lectures <span class="operator">=</span> <span class="number">20</span></div>
+          <div><span class="line-num">5</span>        <span class="keyword">self</span>.ai_courses <span class="operator">=</span> <span class="number">7</span></div>
+          <div><span class="line-num">6</span>        <span class="keyword">self</span>.framework <span class="operator">=</span> <span class="string">"FPTU"</span></div>
+          <div><span class="line-num">7</span></div>
+          <div><span class="line-num">8</span>    <span class="keyword">def</span> <span class="function">build_foundation</span>(<span class="keyword">self</span>)<span class="operator">:</span></div>
+          <div><span class="line-num">9</span>        <span class="keyword">return</span> [</div>
+          <div><span class="line-num">10</span>           <span class="string">"Architecture"</span>,</div>
+          <div><span class="line-num">11</span>           <span class="string">"Algorithms"</span>,</div>
+          <div><span class="line-num">12</span>           <span class="string">"Data Structures"</span>,</div>
+          <div><span class="line-num">13</span>           <span class="string">"OOP & Design"</span></div>
+          <div><span class="line-num">14</span>        ]</div>
+        </div>
+      </div>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <div class="hero-stat-value">20</div>
+          <div class="hero-stat-label">Bài giảng CS</div>
+        </div>
+        <div class="hero-stat">
+          <div class="hero-stat-value">7</div>
+          <div class="hero-stat-label">Môn AI/DS</div>
+        </div>
+        <div class="hero-stat">
+          <div class="hero-stat-value">2</div>
+          <div class="hero-stat-label">Giai đoạn</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════ OVERVIEW SECTION ═══════════ -->
+<section class="section" id="overview">
+  <div class="container">
+    <div class="section-header fade-in">
+      <div class="section-tag purple">📋 Tổng quan</div>
+      <h2 class="section-title">Hai giai đoạn cốt lõi</h2>
+      <p class="section-desc">
+        Nền tảng vững chắc bám sát thực tế học thuật lẫn nghiên cứu, từ tư duy máy tính đến ứng dụng AI thực chiến.
+      </p>
+    </div>
+
+    <div class="overview-grid">
+      <div class="overview-card purple fade-in">
+        <div class="overview-card-icon purple">⚙️</div>
+        <h3 class="overview-card-title">Phần 1: Tin học Cơ sở & Tư duy Nền tảng</h3>
+        <p class="overview-card-desc">
+          Bản chất thực thi máy tính, tối ưu hóa thuật toán và tư duy giải quyết vấn đề (Problem-solving) thông qua C/C++.
+        </p>
+        <div class="overview-card-meta">
+          <span>📚 20 bài giảng</span>
+          <span>💻 C/C++</span>
+          <span>🔩 3 chặng</span>
+        </div>
+      </div>
+
+      <div class="overview-card cyan fade-in">
+        <div class="overview-card-icon cyan">🤖</div>
+        <h3 class="overview-card-title">Phần 2: Python trong AI & Data Science</h3>
+        <p class="overview-card-desc">
+          Khung chương trình chuẩn FPTU từ nền tảng lập trình đến triển khai hệ thống học máy trong thực tế.
+        </p>
+        <div class="overview-card-meta">
+          <span>🎓 7 môn học</span>
+          <span>🐍 Python</span>
+          <span>🏫 Chuẩn FPTU</span>
+        </div>
+      </div>
+
+      <div class="overview-card emerald fade-in">
+        <div class="overview-card-icon emerald">🧮</div>
+        <h3 class="overview-card-title">Toán ứng dụng cho AI</h3>
+        <p class="overview-card-desc">
+          Đại số tuyến tính, Giải tích đa biến, Xác suất & Thống kê — nền tảng toán học bắt buộc cho mô hình.
+        </p>
+        <div class="overview-card-meta">
+          <span>📐 MAE101</span>
+          <span>📊 MAS291</span>
+        </div>
+      </div>
+
+      <div class="overview-card rose fade-in">
+        <div class="overview-card-icon rose">🚀</div>
+        <h3 class="overview-card-title">Triển khai & Sản phẩm</h3>
+        <p class="overview-card-desc">
+          Đưa mô hình từ Jupyter Notebook vào Production: FastAPI, Docker, RAG, MLflow, và Capstone Project.
+        </p>
+        <div class="overview-card-meta">
+          <span>🐳 Docker</span>
+          <span>⚡ FastAPI</span>
+          <span>📦 MLOps</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════ PART 1: TIN HỌC CƠ SỞ ═══════════ -->
+<section class="section" id="part1">
+  <div class="container">
+    <div class="section-header fade-in">
+      <div class="section-tag cyan">⚙️ Phần 1</div>
+      <h2 class="section-title">Tin học Cơ sở & Tư duy Nền tảng</h2>
+      <p class="section-desc">
+        20 bài giảng chuyên sâu — tập trung vào bản chất thực thi của máy tính, tối ưu hóa thuật toán và tư duy giải quyết vấn đề thông qua C/C++.
+      </p>
+    </div>
+
+    <!-- Tab Navigation -->
+    <div class="tab-nav fade-in">
+      <button class="tab-btn active" data-tab="chang1">Chặng 1 (1–6)</button>
+      <button class="tab-btn" data-tab="chang2">Chặng 2 (7–13)</button>
+      <button class="tab-btn" data-tab="chang3">Chặng 3 (14–20)</button>
+    </div>
+
+    <!-- ── CHẶNG 1 ── -->
+    <div class="tab-panel active" id="tab-chang1">
+      <div class="phase-section">
+        <div class="phase-header fade-in">
+          <div class="phase-number cyan">C1</div>
+          <div class="phase-info">
+            <h3>Kiến trúc máy tính & Lập trình có cấu trúc</h3>
+            <p>Bài 1 – 6 · Nền tảng phần cứng, bộ nhớ, và cấu trúc dữ liệu cơ bản</p>
+          </div>
+        </div>
+
+        <div class="lectures-grid">
+          <!-- Bài 1 -->
+          <div class="lecture-card cyan" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num cyan">Bài 01</span>
+              <h4 class="lecture-title">Kiến trúc máy tính, Hệ thống số & Vòng đời thực thi</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Computer Architecture</span>
+              <span class="term-badge">Compilation</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Mô hình Von Neumann, CPU, Register, RAM</li>
+                <li>Biểu diễn số nguyên bù 2, Floating-point (IEEE 754)</li>
+                <li>Pipeline dịch mã: Source code → Preprocessor → Compiler → Assembler → Linker → Binary</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 2 -->
+          <div class="lecture-card cyan" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num cyan">Bài 02</span>
+              <h4 class="lecture-title">Kiểu dữ liệu, Biến, Toán tử bit & Kiểm soát luồng</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Bitwise Operator</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Memory footprint của các kiểu dữ liệu cơ bản</li>
+                <li>Thao tác bit: AND, OR, XOR, Shift bit</li>
+                <li>Cấu trúc rẽ nhánh và vòng lặp dưới góc độ lệnh nhảy assembly</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 3 -->
+          <div class="lecture-card cyan" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num cyan">Bài 03</span>
+              <h4 class="lecture-title">Quản lý bộ nhớ sâu: Pointer, Dynamic Memory & Memory Leak</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Pointer</span>
+              <span class="term-badge">Memory Allocation</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Phân biệt Stack và Heap</li>
+                <li>Con trỏ trần, con trỏ mảng, con trỏ hàm</li>
+                <li>Cấp phát động: <code>malloc</code>, <code>free</code>, <code>new</code>, <code>delete</code></li>
+                <li>Nhận diện Memory leak và Dangling pointer</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 4 -->
+          <div class="lecture-card cyan" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num cyan">Bài 04</span>
+              <h4 class="lecture-title">Hàm, Call Stack & Đệ quy bản chất</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Recursion</span>
+              <span class="term-badge">Call Stack</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Pass-by-value vs. Pass-by-reference</li>
+                <li>Tổ chức Stack frame khi hàm được gọi</li>
+                <li>Đệ quy, điều kiện dừng và Stack Overflow</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 5 -->
+          <div class="lecture-card cyan" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num cyan">Bài 05</span>
+              <h4 class="lecture-title">Phân tích độ phức tạp thuật toán (Big-O, Big-Ω, Big-Θ)</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Time Complexity</span>
+              <span class="term-badge">Space Complexity</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Đánh giá tiệm cận (Asymptotic Analysis)</li>
+                <li>Worst-case, Best-case, Average-case</li>
+                <li>Cách đếm số bước thực thi và phân tích bộ nhớ tiêu thụ</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 6 -->
+          <div class="lecture-card cyan" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num cyan">Bài 06</span>
+              <h4 class="lecture-title">Cấu trúc dữ liệu tuyến tính: Array & Linked List</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Linked List</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Mảng tĩnh vs. Mảng động</li>
+                <li>Singly Linked List, Doubly Linked List</li>
+                <li>Trade-off: truy cập ngẫu nhiên O(1) vs. chèn/xóa O(1)</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── CHẶNG 2 ── -->
+    <div class="tab-panel" id="tab-chang2">
+      <div class="phase-section">
+        <div class="phase-header fade-in">
+          <div class="phase-number purple">C2</div>
+          <div class="phase-info">
+            <h3>Thuật toán kinh điển & Cấu trúc dữ liệu trừu tượng</h3>
+            <p>Bài 7 – 13 · Sorting, Searching, Trees, Graphs & Hash</p>
+          </div>
+        </div>
+
+        <div class="lectures-grid">
+          <!-- Bài 7 -->
+          <div class="lecture-card purple" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num purple">Bài 07</span>
+              <h4 class="lecture-title">Thuật toán tìm kiếm & Sắp xếp nền tảng</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Binary Search</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Linear Search, Binary Search</li>
+                <li>Bubble Sort, Insertion Sort, Selection Sort</li>
+                <li>Giới hạn dưới O(n²) của sắp xếp so sánh đơn giản</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 8 -->
+          <div class="lecture-card purple" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num purple">Bài 08</span>
+              <h4 class="lecture-title">Kỹ thuật Chia để trị (Divide and Conquer)</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Divide and Conquer</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Phân tích định lý thợ (Master Theorem)</li>
+                <li>Merge Sort (ổn định) và Quick Sort (tối ưu cache, pivot selection)</li>
+                <li>Độ phức tạp O(n log n)</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 9 -->
+          <div class="lecture-card purple" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num purple">Bài 09</span>
+              <h4 class="lecture-title">Ngăn xếp (Stack) & Hàng đợi (Queue)</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Stack</span>
+              <span class="term-badge">Queue</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Nguyên lý LIFO và FIFO</li>
+                <li>Đánh giá biểu thức tiền tố / hậu tố</li>
+                <li>Monotonic Stack, Circular Queue, Deque</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 10 -->
+          <div class="lecture-card purple" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num purple">Bài 10</span>
+              <h4 class="lecture-title">Bảng băm (Hash Table) & Xử lý xung đột</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Hash Table</span>
+              <span class="term-badge">Collision Resolution</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Hàm băm (Hash function)</li>
+                <li>Chaining và Open Addressing (Linear Probing, Quadratic Probing)</li>
+                <li>Load factor và Rehashing</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 11 -->
+          <div class="lecture-card purple" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num purple">Bài 11</span>
+              <h4 class="lecture-title">Cấu trúc Cây (Tree): Binary Tree & BST</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Binary Search Tree</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Nút gốc, lá, chiều cao</li>
+                <li>Duyệt Pre-order, In-order, Post-order</li>
+                <li>BST và trường hợp suy biến thành Linked List</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 12 -->
+          <div class="lecture-card purple" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num purple">Bài 12</span>
+              <h4 class="lecture-title">Cây cân bằng (Self-Balancing Trees) & Heap</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Priority Queue</span>
+              <span class="term-badge">Binary Heap</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Nguyên lý xoay cây trong AVL / Red-Black Tree</li>
+                <li>Min-Heap, Max-Heap</li>
+                <li>Hàng đợi ưu tiên (Priority Queue) và Heap Sort</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 13 -->
+          <div class="lecture-card purple" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num purple">Bài 13</span>
+              <h4 class="lecture-title">Lý thuyết đồ thị (Graph Representation & Traversal)</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Adjacency Matrix</span>
+              <span class="term-badge">Traversal</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Đồ thị có hướng / vô hướng, có trọng số</li>
+                <li>Ma trận kề vs. Danh sách kề</li>
+                <li>Thuật toán BFS (hàng đợi) và DFS (đệ quy / ngăn xếp)</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── CHẶNG 3 ── -->
+    <div class="tab-panel" id="tab-chang3">
+      <div class="phase-section">
+        <div class="phase-header fade-in">
+          <div class="phase-number rose">C3</div>
+          <div class="phase-info">
+            <h3>Thuật toán nâng cao & Lập trình hướng đối tượng</h3>
+            <p>Bài 14 – 20 · Graph Algorithms, DP, OOP, SOLID & Software Engineering</p>
+          </div>
+        </div>
+
+        <div class="lectures-grid">
+          <!-- Bài 14 -->
+          <div class="lecture-card rose" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num rose">Bài 14</span>
+              <h4 class="lecture-title">Đồ thị nâng cao: Đường đi ngắn nhất & Cây khung nhỏ nhất</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Shortest Path</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Thuật toán Dijkstra, Bellman-Ford</li>
+                <li>Thuật toán Prim và Kruskal</li>
+                <li>Disjoint Set Union (DSU)</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 15 -->
+          <div class="lecture-card rose" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num rose">Bài 15</span>
+              <h4 class="lecture-title">Hai con trỏ (Two Pointers) & Cửa sổ trượt (Sliding Window)</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Sliding Window</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Tối ưu từ O(n²) về O(n)</li>
+                <li>Tìm dãy con liên tục thỏa điều kiện</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 16 -->
+          <div class="lecture-card rose" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num rose">Bài 16</span>
+              <h4 class="lecture-title">Thuật toán Tham lam (Greedy Algorithms)</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Greedy Algorithm</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Lựa chọn tối ưu cục bộ & Optimal Substructure</li>
+                <li>Activity Selection, mã hóa Huffman</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 17 -->
+          <div class="lecture-card rose" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num rose">Bài 17</span>
+              <h4 class="lecture-title">Quy hoạch động (Dynamic Programming - DP)</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Dynamic Programming</span>
+              <span class="term-badge">Memoization</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Top-down (Memoization) vs. Bottom-up (Tabulation)</li>
+                <li>Bài toán cái túi (Knapsack)</li>
+                <li>Longest Common Subsequence (LCS)</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 18 -->
+          <div class="lecture-card rose" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num rose">Bài 18</span>
+              <h4 class="lecture-title">Lập trình hướng đối tượng (OOP) – 4 tính chất trụ cột</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Encapsulation</span>
+              <span class="term-badge">Polymorphism</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Tính đóng gói (Encapsulation)</li>
+                <li>Tính kế thừa (Inheritance)</li>
+                <li>Tính đa hình (Polymorphism — Override vs. Overload)</li>
+                <li>Tính trừu tượng (Abstraction)</li>
+                <li>Abstract class và Interface</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 19 -->
+          <div class="lecture-card rose" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num rose">Bài 19</span>
+              <h4 class="lecture-title">Nguyên lý SOLID & Design Patterns cốt lõi</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Design Pattern</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Single Responsibility, Open/Closed, Liskov Substitution</li>
+                <li>Interface Segregation, Dependency Inversion</li>
+                <li>Singleton, Factory Method, Strategy Pattern</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+
+          <!-- Bài 20 -->
+          <div class="lecture-card rose" onclick="toggleLecture(this)">
+            <div class="lecture-card-header">
+              <span class="lecture-num rose">Bài 20</span>
+              <h4 class="lecture-title">Công cụ Kỹ nghệ phần mềm: Git, Debugging & Clean Code</h4>
+            </div>
+            <div class="lecture-terms">
+              <span class="term-badge">Version Control</span>
+            </div>
+            <div class="lecture-content">
+              <ul>
+                <li>Git internals: Commit, Branching, Rebase vs. Merge</li>
+                <li>Debug dùng GDB / LLDB</li>
+                <li>Quy chuẩn Clean Code, Unit Test cơ bản</li>
+              </ul>
+            </div>
+            <div class="lecture-toggle">
+              <span>Chi tiết</span>
+              <span class="chevron">▼</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="container"><div class="section-divider"></div></div>
+
+<!-- ═══════════ PART 2: PYTHON & AI ═══════════ -->
+<section class="section" id="part2">
+  <div class="container">
+    <div class="section-header fade-in">
+      <div class="section-tag emerald">🐍 Phần 2</div>
+      <h2 class="section-title">Python trong AI & Data Science</h2>
+      <p class="section-desc">
+        Khung chương trình chuẩn FPTU — từ nền tảng lập trình đến triển khai hệ thống học máy trong thực tế.
+      </p>
+    </div>
+
+    <!-- FPTU Roadmap Diagram -->
+    <div class="fptu-diagram fade-in" id="roadmap">
+      <div class="fptu-diagram-title">LỘ TRÌNH CHUYÊN NGÀNH TẠI FPTU</div>
+      <div class="fptu-flow">
+        <div class="fptu-node purple">
+          <div class="fptu-node-code">PRF192 / PRO192</div>
+          <div class="fptu-node-name">Cơ sở lập trình</div>
+        </div>
+        <div class="fptu-arrow">→</div>
+        <div class="fptu-node cyan">
+          <div class="fptu-node-code">CSI104 / CSD201</div>
+          <div class="fptu-node-name">Hệ thống & DSA</div>
+        </div>
+        <div class="fptu-arrow">→</div>
+        <div class="fptu-node emerald">
+          <div class="fptu-node-code">MAS291</div>
+          <div class="fptu-node-name">Xác suất thống kê</div>
+        </div>
+        <div class="fptu-arrow">→</div>
+        <div class="fptu-node amber">
+          <div class="fptu-node-code">DAP391m</div>
+          <div class="fptu-node-name">Data Analysis</div>
+        </div>
+        <div class="fptu-arrow">→</div>
+        <div class="fptu-node rose">
+          <div class="fptu-node-code">AIL302m</div>
+          <div class="fptu-node-name">Machine Learning</div>
+        </div>
+        <div class="fptu-arrow">→</div>
+        <div class="fptu-node blue">
+          <div class="fptu-node-code">AIL303m</div>
+          <div class="fptu-node-name">Deep Learning</div>
+        </div>
+        <div class="fptu-arrow">→</div>
+        <div class="fptu-node purple">
+          <div class="fptu-node-code">AIP490</div>
+          <div class="fptu-node-name">Capstone</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Course Blocks Timeline -->
+    <div class="roadmap-flow">
+
+      <!-- Môn 1 -->
+      <div class="course-block fade-in-left">
+        <div class="course-marker purple">1</div>
+        <div class="course-card" id="course1">
+          <div class="course-card-head" onclick="toggleCourse('course1')">
+            <div class="course-card-left">
+              <span class="course-code purple">PRF192 / PRO192</span>
+              <h3 class="course-card-title">Lập trình Python chuyên sâu & Khoa học máy tính</h3>
+              <p class="course-card-focus">Nắm vững cấu trúc nội tại của CPython</p>
+            </div>
+            <div class="course-expand-icon">▼</div>
+          </div>
+          <div class="course-card-body">
+            <div class="course-card-body-inner">
+              <div class="course-topic-group">
+                <div class="course-topic-label purple">Advanced Python Syntax</div>
+                <ul class="course-topics">
+                  <li>List / Dict / Set Comprehensions, Generator, Iterator</li>
+                  <li>Decorators, <code>*args</code> & <code>**kwargs</code></li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label purple">OOP trong Python</div>
+                <ul class="course-topics">
+                  <li>Dunder methods: <code>__init__</code>, <code>__repr__</code>, <code>__call__</code></li>
+                  <li>Classmethod, Staticmethod, Abstract Base Classes (<code>abc</code>)</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label purple">Bộ nhớ & Đa nhiệm</div>
+                <ul class="course-topics">
+                  <li>Global Interpreter Lock (GIL), Garbage Collection qua Reference Counting</li>
+                  <li>Xử lý bất đồng bộ <code>asyncio</code> và đa tiến trình <code>multiprocessing</code></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Môn 2 -->
+      <div class="course-block fade-in-left">
+        <div class="course-marker cyan">2</div>
+        <div class="course-card" id="course2">
+          <div class="course-card-head" onclick="toggleCourse('course2')">
+            <div class="course-card-left">
+              <span class="course-code cyan">CSD201</span>
+              <h3 class="course-card-title">Cấu trúc dữ liệu & Giải thuật bằng Python</h3>
+              <p class="course-card-focus">Tái hiện các cấu trúc dữ liệu kinh điển bằng Python</p>
+            </div>
+            <div class="course-expand-icon">▼</div>
+          </div>
+          <div class="course-card-body">
+            <div class="course-card-body-inner">
+              <div class="course-topic-group">
+                <div class="course-topic-label cyan">Hiện thực hóa cấu trúc dữ liệu</div>
+                <ul class="course-topics">
+                  <li>Tự xây dựng Linked List, Stack, Queue, BST, AVL Tree, Graph</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label cyan">Thư viện chuẩn Python</div>
+                <ul class="course-topics">
+                  <li><code>collections</code>: <code>deque</code>, <code>Counter</code>, <code>defaultdict</code></li>
+                  <li>Module <code>heapq</code>, module <code>bisect</code></li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label cyan">Thực hành Online Judge</div>
+                <ul class="course-topics">
+                  <li>Giải bài toán với ràng buộc bộ nhớ và thời gian thực thi nghiêm ngặt</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Môn 3 -->
+      <div class="course-block fade-in-left">
+        <div class="course-marker emerald">3</div>
+        <div class="course-card" id="course3">
+          <div class="course-card-head" onclick="toggleCourse('course3')">
+            <div class="course-card-left">
+              <span class="course-code emerald">MAE101 / MAS291</span>
+              <h3 class="course-card-title">Toán ứng dụng cho AI & Khoa học dữ liệu</h3>
+              <p class="course-card-focus">Nền tảng toán học bắt buộc trước khi động vào mô hình</p>
+            </div>
+            <div class="course-expand-icon">▼</div>
+          </div>
+          <div class="course-card-body">
+            <div class="course-card-body-inner">
+              <div class="course-topic-group">
+                <div class="course-topic-label emerald">Đại số tuyến tính (Linear Algebra)</div>
+                <ul class="course-topics">
+                  <li>Không gian vector, Ma trận, Phép nhân ma trận, Định thức</li>
+                  <li>Eigenvalues & Eigenvectors, Phân rã SVD, PCA</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label emerald">Giải tích đa biến (Calculus)</div>
+                <ul class="course-topics">
+                  <li>Partial Derivatives, Vector Gradient, Ma trận Hessian</li>
+                  <li>Chain Rule — nền tảng thuật toán Backpropagation</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label emerald">Xác suất & Thống kê</div>
+                <ul class="course-topics">
+                  <li>Phân phối: Gaussian, Bernoulli, Binomial</li>
+                  <li>Định lý Bayes, Kỳ vọng, Phương sai</li>
+                  <li>Hypothesis Testing, p-value, Maximum Likelihood Estimation (MLE)</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Môn 4 -->
+      <div class="course-block fade-in-left">
+        <div class="course-marker amber">4</div>
+        <div class="course-card" id="course4">
+          <div class="course-card-head" onclick="toggleCourse('course4')">
+            <div class="course-card-left">
+              <span class="course-code amber">DAP391m</span>
+              <h3 class="course-card-title">Thu thập, Tiền xử lý & Khám phá dữ liệu</h3>
+              <p class="course-card-focus">Chuẩn bị dữ liệu sạch — khâu chiếm 70–80% thời gian dự án</p>
+            </div>
+            <div class="course-expand-icon">▼</div>
+          </div>
+          <div class="course-card-body">
+            <div class="course-card-body-inner">
+              <div class="course-topic-group">
+                <div class="course-topic-label amber">NumPy chuyên sâu</div>
+                <ul class="course-topics">
+                  <li>Mảng nhiều chiều, Broadcasting, Vectorization</li>
+                  <li>Phép nhân ma trận <code>np.dot</code> / <code>@</code></li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label amber">Pandas</div>
+                <ul class="course-topics">
+                  <li>DataFrame manipulation, Indexing, Merge/Join, GroupBy, Pivot Table</li>
+                  <li>Missing Data, Outliers, Time-series</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label amber">Trực quan hóa & Khai thác dữ liệu</div>
+                <ul class="course-topics">
+                  <li>EDA (Exploratory Data Analysis) với <code>Matplotlib</code> và <code>Seaborn</code></li>
+                  <li>Web Scraping: <code>BeautifulSoup</code>, <code>Playwright</code> / <code>Selenium</code></li>
+                  <li>Kết nối CSDL qua <code>SQLAlchemy</code></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Môn 5 -->
+      <div class="course-block fade-in-left">
+        <div class="course-marker rose">5</div>
+        <div class="course-card" id="course5">
+          <div class="course-card-head" onclick="toggleCourse('course5')">
+            <div class="course-card-left">
+              <span class="course-code rose">AIL302m</span>
+              <h3 class="course-card-title">Học máy cổ điển (Machine Learning)</h3>
+              <p class="course-card-focus">Hiểu sâu bản chất thuật toán, Loss Function và đạo hàm tối ưu</p>
+            </div>
+            <div class="course-expand-icon">▼</div>
+          </div>
+          <div class="course-card-body">
+            <div class="course-card-body-inner">
+              <div class="course-topic-group">
+                <div class="course-topic-label rose">Supervised Learning</div>
+                <ul class="course-topics">
+                  <li>Hồi quy: Linear Regression, Đa thức, Regularization (L1-Lasso, L2-Ridge)</li>
+                  <li>Phân loại: Logistic Regression, KNN, SVM, Naive Bayes</li>
+                  <li>Ensemble: Decision Trees, Random Forest, XGBoost, LightGBM, CatBoost</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label rose">Unsupervised Learning</div>
+                <ul class="course-topics">
+                  <li>K-Means, Hierarchical Clustering, DBSCAN</li>
+                  <li>Giảm chiều: PCA / t-SNE</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label rose">Đánh giá mô hình</div>
+                <ul class="course-topics">
+                  <li>Train/Test Split, K-Fold Cross Validation</li>
+                  <li>Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC, RMSE, MAE</li>
+                  <li>Công cụ: <code>scikit-learn</code> pipeline</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Môn 6 -->
+      <div class="course-block fade-in-left">
+        <div class="course-marker blue">6</div>
+        <div class="course-card" id="course6">
+          <div class="course-card-head" onclick="toggleCourse('course6')">
+            <div class="course-card-left">
+              <span class="course-code blue">AIL303m</span>
+              <h3 class="course-card-title">Học sâu & Thị giác máy tính / NLP</h3>
+              <p class="course-card-focus">Xây dựng mạng nơ-ron từ tầng toán học đến kiến trúc hiện đại</p>
+            </div>
+            <div class="course-expand-icon">▼</div>
+          </div>
+          <div class="course-card-body">
+            <div class="course-card-body-inner">
+              <div class="course-topic-group">
+                <div class="course-topic-label blue">Neural Network Foundations</div>
+                <ul class="course-topics">
+                  <li>Perceptron, MLP, Activation (ReLU, Sigmoid, Softmax)</li>
+                  <li>Loss Functions: Cross-Entropy, MSE</li>
+                  <li>Gradient Descent (SGD, Adam, RMSprop), Backpropagation</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label blue">Framework: PyTorch</div>
+                <ul class="course-topics">
+                  <li>Tensor operations, <code>autograd</code>, <code>nn.Module</code></li>
+                  <li><code>Dataset</code>, <code>DataLoader</code></li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label blue">Computer Vision</div>
+                <ul class="course-topics">
+                  <li>CNN, ResNet, Data Augmentation, Transfer Learning</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label blue">NLP & Transformer</div>
+                <ul class="course-topics">
+                  <li>Tokenization, Stemming, Lemmatization, Word2Vec</li>
+                  <li>RNN, LSTM, GRU</li>
+                  <li>Self-Attention, Multi-Head Attention, Encoder-Decoder</li>
+                  <li><code>HuggingFace Transformers</code></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Môn 7 -->
+      <div class="course-block fade-in-left">
+        <div class="course-marker purple">7</div>
+        <div class="course-card" id="course7">
+          <div class="course-card-head" onclick="toggleCourse('course7')">
+            <div class="course-card-left">
+              <span class="course-code purple">AIP490</span>
+              <h3 class="course-card-title">Kỹ nghệ Triển khai & Đồ án AI Tốt nghiệp</h3>
+              <p class="course-card-focus">Đưa mô hình từ Jupyter Notebook vào Production thực tế</p>
+            </div>
+            <div class="course-expand-icon">▼</div>
+          </div>
+          <div class="course-card-body">
+            <div class="course-card-body-inner">
+              <div class="course-topic-group">
+                <div class="course-topic-label purple">API & Container</div>
+                <ul class="course-topics">
+                  <li>Đóng gói mô hình thành API với <code>FastAPI</code></li>
+                  <li>Container hóa bằng <code>Docker</code></li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label purple">RAG & Vector Database</div>
+                <ul class="course-topics">
+                  <li>Retrieval-Augmented Generation (RAG)</li>
+                  <li>Vector Database: FAISS, ChromaDB, Qdrant</li>
+                </ul>
+              </div>
+              <div class="course-topic-group">
+                <div class="course-topic-label purple">MLOps</div>
+                <ul class="course-topics">
+                  <li>Quản lý vòng đời mô hình: <code>MLflow</code> hoặc <code>Weights & Biases</code></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════ FOOTER ═══════════ -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-brand"><span>KH-THCS</span> Curriculum</div>
+    <p class="footer-text">Lộ trình Tin học Cơ sở & AI/Data Science — Chuẩn FPT University</p>
+  </div>
+</footer>
+
+<!-- Back to Top -->
+<button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+
+<script src="script.js"></script>
+</body>
+</html>
