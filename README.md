@@ -12,11 +12,6 @@ Interested in machine learning, NLP, and systems that connect software with the 
 
 ---
 
-## Projects
-
-- **NEO-ONLINE-JUDGE** — An online judge with an AI programming mentor.
-- **Future Smart Farm** — Precision agriculture with Siemens PLC, Python, and Open-Meteo.
-
 ## Stack
 
 **AI / data** · `Python` `PyTorch` `Transformers` `NumPy` `Pandas` `scikit-learn` `R`
