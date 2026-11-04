@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:10293A,100:0B1220&height=160&section=header&text=II-MAX&fontSize=46&fontColor=76E3D2&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20ML%20%C2%B7%20APPLIED%20SYSTEMS&descAlignY=62&descSize=14&descColor=AAB7C4" width="100%" alt="II-MAX — AI, machine learning, applied systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:10293A,100:0B1220&height=160&section=header&text=PHAM%20VAN%20CHUNG&fontSize=40&fontColor=76E3D2&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20ML%20%C2%B7%20APPLIED%20SYSTEMS&descAlignY=62&descSize=14&descColor=AAB7C4" width="100%" alt="Pham Van Chung — AI, machine learning, applied systems" />
 
 <div align="center">
 
@@ -31,8 +31,12 @@ Interested in machine learning, NLP, and systems that connect software with the 
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=II-Max&show_icons=true&hide_border=true&hide_title=true&bg_color=0B1220&text_color=AAB7C4&icon_color=76E3D2" alt="GitHub stats" />
+<a href="https://github.com/rowkavdev/GitHub-profile-stats">
+  <img height="130" src="https://ghstats.dev/api/langs?username=II-Max&theme=midnight&layout=bar&max_langs=5" alt="Top languages across public repositories" />
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=II-Max&bg_color=0B1220&color=AAB7C4&line=76E3D2&point=EAF6FF&area=true&area_color=10293A&hide_border=true&radius=6" width="100%" alt="GitHub contribution activity" />
+<a href="https://github.com/II-Max">
+  <img src="https://ghstats.dev/api/sparkline?username=II-Max&days=30&width=700&height=180&line_color=76E3D2&fill_color=10293A&title=GitHub%20Activity" width="100%" alt="GitHub activity over the last 30 days" />
+</a>
 
 </div>
