@@ -1,23 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:10293A,100:0B1220&height=160&section=header&text=PHAM%20VAN%20CHUNG&fontSize=40&fontColor=76E3D2&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20ML%20%C2%B7%20APPLIED%20SYSTEMS&descAlignY=62&descSize=14&descColor=AAB7C4" width="100%" alt="Pham Van Chung — AI, machine learning, applied systems" />
+# Pham Van Chung
 
-<div align="center">
+Artificial Intelligence undergraduate at FPT University Hanoi.
 
-AI student · FPT University Hanoi
+**Academic interests:** machine learning, natural language processing, and applied AI.
 
-Interested in machine learning, NLP, and systems that connect software with the real world.
+## Contact
 
-[Email](mailto:phamvanchung2k7@gmail.com) · [LinkedIn](https://www.linkedin.com/in/phamvanchung1827)
+- **Email:** phamvanchung2k7@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/phamvanchung1827
 
-</div>
+## Technical Stack
 
----
-
-## Stack
-
-**AI / data** · `Python` `PyTorch` `Transformers` `NumPy` `Pandas` `scikit-learn` `R`
-
-**Development** · `C++` `JavaScript` `FastAPI` `Flutter` `Dart` `Firebase`
-
-**Systems** · `Siemens PLC` `Modbus TCP` `Node-RED`
-
-</div>
+| Area | Technologies |
+|:--|:--|
+| **AI & Data** | Python · PyTorch · Transformers · NumPy · Pandas · scikit-learn · R |
+| **LLMs & APIs** | Llama 3 · Groq API |
+| **Software Development** | C++ · JavaScript · FastAPI · Flutter · Dart · Firebase |
+| **Automation & Industrial Systems** | Siemens PLC · Modbus TCP · Node-RED |
