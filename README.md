@@ -1,22 +1,19 @@
-<h1 align="center">Pham Van Chung</h1>
+# Pham Van Chung
 
-<p align="center">AI student · FPT University Hanoi</p>
+Artificial Intelligence undergraduate at FPT University Hanoi.
 
-<p align="center">
-  I’m exploring machine learning and NLP, and learning by building practical software systems.
-</p>
+**Academic interests:** machine learning, natural language processing, and applied AI.
 
-<p align="center">
-  <a href="mailto:phamvanchung2k7@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/phamvanchung1827">LinkedIn</a>
-</p>
+## Contact
 
----
+- **Email:** phamvanchung2k7@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/phamvanchung1827
 
-## Stack
+## Technical Stack
 
-| Area | Tools |
+| Area | Technologies |
 |:--|:--|
-| **AI & data** | Python · PyTorch · Transformers · Llama 3 · Groq API · NumPy · Pandas · scikit-learn · R |
-| **Development** | C++ · JavaScript · FastAPI · Flutter · Dart · Firebase |
-| **Systems** | Siemens PLC · Modbus TCP · Node-RED |
+| **AI & Data** | Python · PyTorch · Transformers · NumPy · Pandas · scikit-learn · R |
+| **LLMs & APIs** | Llama 3 · Groq API |
+| **Software Development** | C++ · JavaScript · FastAPI · Flutter · Dart · Firebase |
+| **Automation & Industrial Systems** | Siemens PLC · Modbus TCP · Node-RED |
