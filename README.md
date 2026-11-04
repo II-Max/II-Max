@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### Pham Van Chung
-
 AI student · FPT University Hanoi
 
 Interested in machine learning, NLP, and systems that connect software with the real world.
@@ -26,17 +24,5 @@ Interested in machine learning, NLP, and systems that connect software with the 
 **Development** · `C++` `JavaScript` `FastAPI` `Flutter` `Dart` `Firebase`
 
 **Systems** · `Siemens PLC` `Modbus TCP` `Node-RED`
-
-## GitHub
-
-<div align="center">
-
-<a href="https://github.com/rowkavdev/GitHub-profile-stats">
-  <img height="130" src="https://ghstats.dev/api/langs?username=II-Max&theme=midnight&layout=bar&max_langs=5" alt="Top languages across public repositories" />
-</a>
-
-<a href="https://github.com/II-Max">
-  <img src="https://ghstats.dev/api/sparkline?username=II-Max&days=30&width=700&height=180&line_color=76E3D2&fill_color=10293A&title=GitHub%20Activity" width="100%" alt="GitHub activity over the last 30 days" />
-</a>
 
 </div>
