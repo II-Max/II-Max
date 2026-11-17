@@ -17,3 +17,11 @@ Artificial Intelligence undergraduate at FPT University Hanoi.
 | **LLMs & APIs** | Llama 3 · Groq API |
 | **Software Development** | C++ · JavaScript · FastAPI · Flutter · Dart · Firebase |
 | **Automation & Industrial Systems** | Siemens PLC · Modbus TCP · Node-RED |
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="./github-contribution-grid-snake.svg" />
+</picture>
