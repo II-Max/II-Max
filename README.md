@@ -13,29 +13,97 @@
 
 ---
 
-## Profile
+## 🎮 Mini game: Save the demo
 
-I’m interested in machine learning and natural language processing, and in building practical systems that connect software with real-world needs. My current work spans AI-assisted programming education and precision agriculture.
+The lab demo starts in five minutes. The AI mentor is quiet, the farm dashboard is stale, and the PLC has stopped talking. Can you get everything back online?
 
-## Selected projects
+**How to play:** Pick one option per round, open it to see what happens, and keep score. Each correct fix earns one point. The bonus round is worth one extra point.
+
+### Round 1 · The AI mentor went silent
+
+The programming mentor receives a question but never replies. What do you check first?
+
+<details>
+<summary>Inspect the FastAPI request and LLM response</summary>
+
+✅ **Good call — +1 point.** Check the request path and model response before changing unrelated hardware.
+
+</details>
+
+<details>
+<summary>Restart the farm’s Siemens PLC</summary>
+
+🌀 **Wrong room.** That controller belongs to the smart farm side of the demo. No point this round.
+
+</details>
+
+### Round 2 · The farm forecast is frozen
+
+The greenhouse dashboard still shows yesterday’s weather. Which clue do you follow?
+
+<details>
+<summary>Check the latest Open-Meteo response and timestamp</summary>
+
+✅ **Good call — +1 point.** Verify the weather feed is current before changing the farm controls.
+
+</details>
+
+<details>
+<summary>Retrain the NLP model</summary>
+
+🌦️ **A little too much AI.** The forecast comes from the weather feed, so check that source first. No point this round.
+
+</details>
+
+### Round 3 · The PLC is not reaching the dashboard
+
+The controller has fresh values, but Node-RED sees nothing. Which connection do you inspect?
+
+<details>
+<summary>Test the Modbus TCP link</summary>
+
+✅ **Good call — +1 point.** That’s the bridge between the PLC and the rest of the system.
+
+</details>
+
+<details>
+<summary>Adjust the Flutter layout</summary>
+
+📱 **The screen looks innocent.** Check the data connection before rearranging the dashboard. No point this round.
+
+</details>
+
+### Bonus round · One last handshake
+
+Name the protocol used in this demo to connect the PLC and Node-RED.
+
+<details>
+<summary>Reveal the answer</summary>
+
+🔓 **Modbus TCP — +1 point.**
+
+</details>
+
+### Your result
+
+- **0–2 points:** The demo needs one more debugging pass. The lab is open; have another go.
+- **3–4 points:** Demo saved. You’re cleared for deployment. 🚀
+
+---
+
+## 👨‍💻 Player profile
+
+I’m interested in machine learning, natural language processing, and practical systems that connect software with real-world needs.
+
+### Current projects
 
 - **NEO-ONLINE-JUDGE** — An online judge with an AI programming mentor, designed to make coding practice more accessible.
-- **Future Smart Farm** — A precision-agriculture project combining Siemens PLC hardware, Python, Modbus TCP, and Open-Meteo weather data. **Top 24** finalist in a university entrepreneurship program.
+- **Future Smart Farm** — Precision agriculture with Siemens PLC hardware, Python, Modbus TCP, and Open-Meteo weather data. **Top 24** finalist in a university entrepreneurship program.
 
-## Technical toolkit
+### Toolkit
 
-| Focus | Technologies |
-| --- | --- |
-| **AI & data** | Python, PyTorch, Transformers, scikit-learn, NumPy, Pandas, R |
-| **Software** | C++, JavaScript, FastAPI, Flutter, Dart, Firebase |
-| **Industrial systems** | Siemens PLC, Modbus TCP, Node-RED |
+**AI & data** · `Python` `PyTorch` `Transformers` `scikit-learn` `NumPy` `Pandas` `R`
 
-## GitHub activity
+**Software** · `C++` `JavaScript` `FastAPI` `Flutter` `Dart` `Firebase`
 
-<div align="center">
-
-<img height="140" src="https://ghstats.dev/api/langs?username=II-Max&theme=midnight&layout=bar&max_langs=5" alt="Most used languages across public repositories" />
-
-<img src="https://ghstats.dev/api/sparkline?username=II-Max&days=30&width=700&height=180&line_color=76E3D2&fill_color=10293A&title=GitHub%20Activity" width="100%" alt="GitHub activity over the last 30 days" />
-
-</div>
+**Industrial systems** · `Siemens PLC` `Modbus TCP` `Node-RED`
