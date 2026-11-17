@@ -12,10 +12,12 @@ Interested in machine learning, NLP, and systems that connect software with the 
 
 ---
 
-## Projects
+## Certifications & Awards
 
-- **NEO-ONLINE-JUDGE** — An online judge with an AI programming mentor.
-- **Future Smart Farm** — Precision agriculture with Siemens PLC, Python, and Open-Meteo.
+- **Flutter and Dart (IBM)** – Cross-platform mobile development.
+- **Fulbright VN ETAs** – Academic Mentor for the STEM Mentorship Program 2026.
+- **NASA Space Apps Challenge 2025** – Environmental Technology Award & Galactic Problem Solver.
+- **NASA Space Apps Challenge 2026** – Project Lead for SPHEREx astronomical data visualization.
 
 ## Stack
 
@@ -28,8 +30,6 @@ Interested in machine learning, NLP, and systems that connect software with the 
 ## GitHub
 
 <div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=II-Max&show_icons=true&hide_border=true&hide_title=true&bg_color=0B1220&text_color=AAB7C4&icon_color=76E3D2" alt="GitHub stats" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=II-Max&bg_color=0B1220&color=AAB7C4&line=76E3D2&point=EAF6FF&area=true&area_color=10293A&hide_border=true&radius=6" width="100%" alt="GitHub contribution activity" />
 
