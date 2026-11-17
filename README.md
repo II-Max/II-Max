@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:10293A,100:0B1220&height=160&section=header&text=II-MAX&fontSize=46&fontColor=76E3D2&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20ML%20%C2%B7%20APPLIED%20SYSTEMS&descAlignY=62&descSize=14&descColor=AAB7C4" width="100%" alt="II-MAX — AI, machine learning, applied systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:10293A,100:0B1220&height=160&section=header&text=II-MAX&fontSize=46&fontColor=76E3D2&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20ML%20%C2%B7%20APPLIED%20SYSTEMS&descAlignY=62&descSize=14&descColor=AAB7C4" width="100%" alt="PHAM VAN CHUNG — AI, machine learning, applied systems" />
 
 <div align="center">
 
