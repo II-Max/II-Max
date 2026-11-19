@@ -14,6 +14,8 @@ Interested in machine learning, NLP, and systems that connect software with the 
 
 ## Certifications & Awards
 
+- **Introduction to Docker (Google)**
+- **Data Analytics Foundations (IBM)**
 - **Flutter and Dart (IBM)** – Cross-platform mobile development.
 - **Fulbright VN ETAs** – Academic Mentor for the STEM Mentorship Program 2026.
 - **NASA Space Apps Challenge 2025** – Environmental Technology Award & Galactic Problem Solver.
